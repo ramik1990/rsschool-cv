@@ -17,21 +17,19 @@ The goal of my training is to become a developer and find a good job in this fie
 - Laravel <sup>Basics</sup>;
 - Git <sup>Basics</sup>;
 - VS Code <sup>Basics</sup>;
-### 4. Code examples
+### 5. Code examples
 |Solution|Sample Tests|
 |--------|------------|
-|```function multiply(a, b){
-  a * b
-}```|```const assert = require("chai").assert;
+|`function multiply(a, b){`|`const assert = require("chai").assert;`|
+|` a * b`|`describe("Multiply", () => {`|
+|`}`|`it("fixed tests", () => {`|
+|---|`assert.strictEqual(multiply(1,1), 1);`|
+|---|`assert.strictEqual(multiply(2,1), 2);`|
+|---|`assert.strictEqual(multiply(2,2), 4);`|
+|---|`assert.strictEqual(multiply(3,5), 15);`|
+|---|`  });`|
+|---|`});`|
 
-describe("Multiply", () => {
-  it("fixed tests", () => {
-    assert.strictEqual(multiply(1,1), 1);
-    assert.strictEqual(multiply(2,1), 2);
-    assert.strictEqual(multiply(2,2), 4);
-    assert.strictEqual(multiply(3,5), 15);   
-  });
-});```
 
 
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
