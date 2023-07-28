@@ -23,12 +23,12 @@ The goal of my training is to become a developer and find a good job in this fie
 |`function multiply(a, b){`|`const assert = require("chai").assert;`|
 |` a * b`|`describe("Multiply", () => {`|
 |`}`|`it("fixed tests", () => {`|
-|---|`assert.strictEqual(multiply(1,1), 1);`|
-|---|`assert.strictEqual(multiply(2,1), 2);`|
-|---|`assert.strictEqual(multiply(2,2), 4);`|
-|---|`assert.strictEqual(multiply(3,5), 15);`|
-|---|`  });`|
-|---|`});`|
+|        |`assert.strictEqual(multiply(1,1), 1);`|
+|        |`assert.strictEqual(multiply(2,1), 2);`|
+|        |`assert.strictEqual(multiply(2,2), 4);`|
+|        |`assert.strictEqual(multiply(3,5), 15);`|
+|        |`  });`|
+|        |`});`|
 
 
 
