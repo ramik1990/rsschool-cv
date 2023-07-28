@@ -26,7 +26,6 @@ function multiply(a, b){
   a * b
 }
 ```
-
 ***Sample Tests***
 ```
 const assert = require("chai").assert;
@@ -40,10 +39,11 @@ describe("Multiply", () => {
   });
 });
 ```
+### 5. Experience
+[My CV](https://github.com/ramik1990/rsschool-cv/blob/gh-pages/cv.md)
 
+### 6. My Education
+**2023** *The Abay Myrzakhmetov Kokshetau University* / *Information Systems* <sup>(magistracy | master)</sup>
 
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-
-Образование (включая пройденные курсы и тренинги)
-
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+### 6. My English
+English level beginner
