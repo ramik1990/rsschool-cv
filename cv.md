@@ -45,5 +45,5 @@ describe("Multiply", () => {
 ### 6. My Education
 **2023** *The Abay Myrzakhmetov Kokshetau University* / *Information Systems* <sup>(magistracy | master)</sup>
 
-### 6. My English
+### 7. My English
 English level beginner
