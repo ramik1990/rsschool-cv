@@ -1,5 +1,7 @@
 # My CV
 
+![My Avatar](https://avatars.githubusercontent.com/u/42819609?v=4)
+
 ### 1. Shudabayev Ramil Maratovich
 ### 2. Contacts
 - **tel:** +7(705)-420-37-00
@@ -38,11 +40,11 @@ describe('Multiply', () => {
   });
 });
 ```
-### 5. Experience
+### 6. Experience
 [My CV](https://github.com/ramik1990/rsschool-cv/blob/gh-pages/cv.md)
 
-### 6. My Education
+### 7. My Education
 **2023** *The Abay Myrzakhmetov Kokshetau University* / *Information Systems* <sup>(magistracy | master)</sup>
 
-### 7. My English
+### 8. My English
 English level beginner
