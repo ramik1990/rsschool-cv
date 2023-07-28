@@ -3,10 +3,10 @@
 ### 1. Shudabayev Ramil Maratovich
 
 ### 1. Contacts
-        * **tel:** +7(705)-420-37-00
-        * **email:** ramikshudabaev@gmail.com
-        * **github:** [@ramik1990](https://github.com/ramik1990)
-        * **discord:** [@shudabaevrm](https://discordapp.com/users/319149251944906752/)
+        + __tel:__ +7(705)-420-37-00
+        + __email:__ ramikshudabaev@gmail.com
+        + __github:__ [@ramik1990](https://github.com/ramik1990)
+        + __discord:__ [@shudabaevrm](https://discordapp.com/users/319149251944906752/)
 
 
 
