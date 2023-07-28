@@ -29,7 +29,6 @@ function multiply(a, b){
 ***Sample Tests***
 ```
 const assert = require("chai").assert;
-
 describe("Multiply", () => {
   it("fixed tests", () => {
     assert.strictEqual(multiply(1,1), 1);
