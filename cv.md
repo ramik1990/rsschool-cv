@@ -18,7 +18,7 @@ The goal of my training is to become a developer and find a good job in this fie
 - Git <sup>Basics</sup>;
 - VS Code <sup>Basics</sup>;
 ### 5. Code examples
-```
+
 |Solution|Sample Tests|
 |--------|------------|
 |function multiply(a, b){|const assert = require("chai").assert;|
@@ -30,7 +30,7 @@ The goal of my training is to become a developer and find a good job in this fie
 |        |assert.strictEqual(multiply(3,5), 15);|
 |        |  });|
 |        |});|
-```
+
 
 
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
