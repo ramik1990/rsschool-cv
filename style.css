@@ -139,3 +139,56 @@ h3 {
 #skills ul sup {
     color: red;
 }
+#code_examples {
+    display: flex;
+    flex-direction: column;
+}
+#code_examples span {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0 50px;
+    background-color: rgb(238, 238, 238);
+    margin: 10px 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#code_examples h5 {
+    padding: 10px 0;
+    margin: 0;
+    text-indent: 40px;
+    font-size:large;
+}
+#experience {
+    flex-direction: column;
+}
+#experience .wrapper{
+    margin: 20px 15px;
+    font-size: 1.1em;
+}   
+#education {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#education p {
+    font-size: 1.1em;
+}
+#education sup {
+    color: red;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.15);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer img {
+    width: 100px;
+}
+footer p {
+    text-align: center;
+    line-height: 1.3em;
+}
