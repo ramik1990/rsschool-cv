@@ -8,6 +8,100 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img src="https://avatars.githubusercontent.com/u/42819609?v=4" alt="my CV Avatar" class="avatar">
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#contacts">Contacts</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#code_examples">Code examples</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#education">My Education</a></li>
+            </ul>
+        </nav>
+        <h1>Shudabayev Ramil Maratovich</h1>
+    </header>
+    <main>
+        <section class="contacts main__sections" id="contacts">
+            <img class="avatar" src="https://avatars.githubusercontent.com/u/42819609?v=4" alt="my CV Avatar">
+            <div>
+                <h3>Contacts</h3>
+                <ul>
+                    <li><img src="https://freepngimg.com/save/62957-smartphone-icons-mobile-wikimedia-app-commons-file:mobile/512x512" alt="icon__phone">   tel: <a href="tel:+77054203700">+7(705)-420-37-00</a></li> 
+                    <li><img src="https://cdn-icons-png.flaticon.com/512/6711/6711567.png" alt="icon__email">   email: <a href="mailto:ramikshudabaev@gmail.com">ramikshudabaev@gmail.com</a></li> 
+                    <li><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="icon__github">   github: <a href="https://github.com/ramik1990">ramik1990</a></li>
+                    <li><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-kva2hfax.png" alt="icon__discord">   discord:<a href="https://discordapp.com/users/319149251944906752/">@shudabaevrm</a></li>
+                </ul>
+            </div>
+        </section>
+        <section class="about main__sections" id="about">
+            <h3>About</h3>
+            <p>
+                The goal of my training is to become a developer and find a good job in this field. My strengths are responsibility, learning, communication skills. For ten years I have been working in education as an IT specialist and a teacher of special disciplines at the Higher Technical College of the city of Shchuchinsk, Kazakhstan.
+            </p>
+        </section>
+        <section class="skills main__sections" id="skills">
+            <h3>Skills</h3>
+            <div class="wrapper">
+                <ul>
+                    <li>HTML <sup>basics</sup></li>
+                    <li>CSS <sup>basics</sup></li>
+                    <li>SAAS <sup>basics</sup></li>
+                    <li>JS <sup>basics</sup></li>
+                </ul>
+                <ul>
+                    <li>PHP <sup>basics</sup></li>
+                    <li>LARAVEL <sup>basics</sup></li>
+                    <li>GIT <sup>basics</sup></li>
+                    <li>VS CODE <sup>basics</sup></li>
+                </ul>
+            </div>
+        </section>
+        <section class="code_examples main__sections" id="code_examples">
+            <h3>code examples</h3>
+            <div class="wrapper">
+                <span>
+                    <h5>Solution</h5>
+                    function multiply(a, b){ <br>
+                           a * b <br>
+                        }
+                </span>
+                <span>
+                    <h5>Sample Tests</h5>
+                    const assert = require('chai').assert; <br>
+                    describe('Multiply', () => {<br>
+                    it('fixed tests', () => {<br>
+                           assert.strictEqual(multiply(1,1), 1);<br>
+                           assert.strictEqual(multiply(2,1), 2);<br>
+                           assert.strictEqual(multiply(2,2), 4);<br>
+                           assert.strictEqual(multiply(3,5), 15); <br>
+                    });
+                    });
+                </span>
+            </div>
+        </section>
+        <section class="experience main__sections" id="experience">
+            <h3>experience</h3>
+            <div class="wrapper">
+                <a href="https://github.com/ramik1990/rsschool-cv/blob/gh-pages/cv.md">My CV</a>
+            </div>
+        </section>
+        <section class="education main__sections" id="education">
+            <h3>my education</h3>
+            <p>
+                <b>2023</b> The Abay Myrzakhmetov Kokshetau University / Information Systems <sup>(magistracy | master)</sup>
+            </p>
+        </section>
+    </main>
+    <footer>
+        <a href="https://rs.school/js/" title="RS School"><img src="https://rs.school/images/rs_school_js.svg" alt="logo_rsschool"></a>
+        <p>
+            Shudabayev Ramil Maratovich <br>
+            +7(705)-420-37-00<br>
+            <b>2023</b> 
+            
+        </p>        
+        <a href="https://github.com/ramik1990" title="My GitHub Page"><img src="https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png" alt="My GitHub Page"></a>
+    </footer>
 </body>
 </html>
